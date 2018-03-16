@@ -15,8 +15,8 @@ zepto.qsa = function(element, selector){
     )
 }
 
-##methods: 
-* ###type
+## methods: 
+* ### type
   ``` javascript
     function type(obj) {
       return obj == null ? String(obj) :
